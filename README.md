@@ -231,6 +231,7 @@ p.note { display: none; }
 <a href="20240111_078.JPG" data-lightbox="abc"><img src="20240111_078.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">1月ですが、田んぼに水入れてます。タイは2期作ですね</span></h2>
 <a href="20240111_079.JPG" data-lightbox="abc"><img src="20240111_079.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">道の脇にはパパイヤ、まだ硬そうでした</span></h2>
 <a href="20240111_080.JPG" data-lightbox="abc"><img src="20240111_080.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_081.JPG" data-lightbox="abc"><img src="20240111_081.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_082.JPG" data-lightbox="abc"><img src="20240111_082.JPG" alt="サンプル画像" width="900" /></a>
