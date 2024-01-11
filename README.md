@@ -209,6 +209,7 @@ p.note { display: none; }
 <a href="20240111_059.JPG" data-lightbox="abc"><img src="20240111_059.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_060.JPG" data-lightbox="abc"><img src="20240111_060.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_061.JPG" data-lightbox="abc"><img src="20240111_061.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">メコン川と対岸のラオスを望む展望台</span></h2>
 <a href="20240111_062.JPG" data-lightbox="abc"><img src="20240111_062.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_063.JPG" data-lightbox="abc"><img src="20240111_063.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_064.JPG" data-lightbox="abc"><img src="20240111_064.JPG" alt="サンプル画像" width="900" /></a>
