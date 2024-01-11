@@ -146,7 +146,7 @@ p.note { display: none; }
 <a href="20240111_010.JPG" data-lightbox="abc"><img src="20240111_010.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">川沿いのお寺も夜明けです</span></h2>
 <a href="20240111_011.JPG" data-lightbox="abc"><img src="20240111_011.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">何の変哲もないCIVICかと思いきや、ブレーキキャリパーがブレンボの対抗ピストン</span></h2>
+<h2><span class="yellow">何の変哲もないCIVICかと思いきや、ブレーキキャリパーがブレンボの対抗ピストンに！</span></h2>
 <a href="20240111_012.JPG" data-lightbox="abc"><img src="20240111_012.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20240111_013.JPG" data-lightbox="abc"><img src="20240111_013.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20240111_014.JPG" data-lightbox="abc"><img src="20240111_014.JPG" alt="サンプル画像" width="400" /></a>
@@ -157,9 +157,11 @@ p.note { display: none; }
 <a href="20240111_017.JPG" data-lightbox="abc"><img src="20240111_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_018.JPG" data-lightbox="abc"><img src="20240111_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_019.JPG" data-lightbox="abc"><img src="20240111_019.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240111_020.JPG" data-lightbox="abc"><img src="20240111_020.JPG" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20240111_020.JPG" data-lightbox="abc"><img src="20240111_020.JPG" alt="サンプル画像" width="900" /></a>-->
 <a href="20240111_021.JPG" data-lightbox="abc"><img src="20240111_021.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240111_022.JPG" data-lightbox="abc"><img src="20240111_022.JPG" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20240111_022.JPG" data-lightbox="abc"><img src="20240111_022.JPG" alt="サンプル画像" width="900" /></a>-->
 <a href="20240111_023.JPG" data-lightbox="abc"><img src="20240111_023.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">遊覧船が稼働し始めています</span></h2>
 <a href="20240111_024.JPG" data-lightbox="abc"><img src="20240111_024.JPG" alt="サンプル画像" width="900" /></a>
