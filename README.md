@@ -218,8 +218,10 @@ p.note { display: none; }
 <a href="20240111_070.JPG" data-lightbox="abc"><img src="20240111_070.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_071.JPG" data-lightbox="abc"><img src="20240111_071.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_072.JPG" data-lightbox="abc"><img src="20240111_072.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240111_073.JPG" data-lightbox="abc"><img src="20240111_073.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">中国が上流に作ったダムと乾季の影響で川底が露出、徒歩で渡れるエリア出現</span></h2>
 <a href="20240111_074.JPG" data-lightbox="abc"><img src="20240111_074.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">突然の検問、不法入国者の取り締まりか？</span></h2>
+<a href="20240111_073.JPG" data-lightbox="abc"><img src="20240111_073.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_075.JPG" data-lightbox="abc"><img src="20240111_075.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_076.JPG" data-lightbox="abc"><img src="20240111_076.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_077.JPG" data-lightbox="abc"><img src="20240111_077.JPG" alt="サンプル画像" width="900" /></a>
