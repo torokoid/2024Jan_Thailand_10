@@ -134,6 +134,7 @@ p.note { display: none; }
 <a href="20240111_001.JPG" data-lightbox="abc"><img src="20240111_001.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">移動エリアの拡大図</span></h2>
 <a href="20240111_002.JPG" data-lightbox="abc"><img src="20240111_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://maps.app.goo.gl/evgCFNq27g3NxFTw6" target="_blank">GoogleMaps,Link</a>
 <h2><span class="yellow">一泊した宿</span></h2>
 <a href="20240111_003.JPG" data-lightbox="abc"><img src="20240111_003.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">メコン川の夜明け</span></h2>
