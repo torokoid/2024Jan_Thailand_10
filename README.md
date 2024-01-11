@@ -132,8 +132,11 @@ p.note { display: none; }
 <h2><span class="yellow">11日はチェンライから北上したメコン川流域をさらに散策！</span></h2>
 <h2><span class="yellow">今回訪れているのは、ミャンマー、ラオス、タイ、３国の国境付近</span></h2>
 <a href="20240111_001.JPG" data-lightbox="abc"><img src="20240111_001.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">移動エリアの拡大図</span></h2>
 <a href="20240111_002.JPG" data-lightbox="abc"><img src="20240111_002.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">一泊した宿</span></h2>
 <a href="20240111_003.JPG" data-lightbox="abc"><img src="20240111_003.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">メコン川の夜明け</span></h2>
 <a href="20240111_004.JPG" data-lightbox="abc"><img src="20240111_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_005.JPG" data-lightbox="abc"><img src="20240111_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_006.JPG" data-lightbox="abc"><img src="20240111_006.JPG" alt="サンプル画像" width="900" /></a>
@@ -141,12 +144,16 @@ p.note { display: none; }
 <a href="20240111_008.JPG" data-lightbox="abc"><img src="20240111_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_009.JPG" data-lightbox="abc"><img src="20240111_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_010.JPG" data-lightbox="abc"><img src="20240111_010.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">川沿いのお寺も夜明けです</span></h2>
 <a href="20240111_011.JPG" data-lightbox="abc"><img src="20240111_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240111_012.JPG" data-lightbox="abc"><img src="20240111_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240111_013.JPG" data-lightbox="abc"><img src="20240111_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240111_014.JPG" data-lightbox="abc"><img src="20240111_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240111_015.JPG" data-lightbox="abc"><img src="20240111_015.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">何の変哲もないCIVICかと思いきや、ブレーキキャリパーがブレンボの対抗ピストン</span></h2>
+<a href="20240111_012.JPG" data-lightbox="abc"><img src="20240111_012.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20240111_013.JPG" data-lightbox="abc"><img src="20240111_013.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20240111_014.JPG" data-lightbox="abc"><img src="20240111_014.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20240111_015.JPG" data-lightbox="abc"><img src="20240111_015.JPG" alt="サンプル画像" width="400" /></a>
+<h2><span class="yellow">朝日の中で、お坊さん達の修行開始</span></h2>
 <a href="20240111_016.JPG" data-lightbox="abc"><img src="20240111_016.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">早起き女子高生たちが川面に降りていきます</span></h2>
 <a href="20240111_017.JPG" data-lightbox="abc"><img src="20240111_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_018.JPG" data-lightbox="abc"><img src="20240111_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_019.JPG" data-lightbox="abc"><img src="20240111_019.JPG" alt="サンプル画像" width="900" /></a>
@@ -154,15 +161,19 @@ p.note { display: none; }
 <a href="20240111_021.JPG" data-lightbox="abc"><img src="20240111_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_022.JPG" data-lightbox="abc"><img src="20240111_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_023.JPG" data-lightbox="abc"><img src="20240111_023.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">遊覧船が稼働し始めています</span></h2>
 <a href="20240111_024.JPG" data-lightbox="abc"><img src="20240111_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_025.JPG" data-lightbox="abc"><img src="20240111_025.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">朝ごはん、洋食系スペシャル</span></h2>
 <a href="20240111_026.JPG" data-lightbox="abc"><img src="20240111_026.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">同行女性が朝のメコン川バックにヨガ</span></h2>
 <a href="20240111_027.JPG" data-lightbox="abc"><img src="20240111_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_028.JPG" data-lightbox="abc"><img src="20240111_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_029.JPG" data-lightbox="abc"><img src="20240111_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_030.JPG" data-lightbox="abc"><img src="20240111_030.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_031.JPG" data-lightbox="abc"><img src="20240111_031.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_032.JPG" data-lightbox="abc"><img src="20240111_032.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">河岸に咲いた綺麗なお花達</span></h2>
 <a href="20240111_033.JPG" data-lightbox="abc"><img src="20240111_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_034.JPG" data-lightbox="abc"><img src="20240111_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_035.JPG" data-lightbox="abc"><img src="20240111_035.JPG" alt="サンプル画像" width="900" /></a>
@@ -230,6 +241,7 @@ p.note { display: none; }
 <a href="20240111_097.JPG" data-lightbox="abc"><img src="20240111_097.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_098.JPG" data-lightbox="abc"><img src="20240111_098.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_099.JPG" data-lightbox="abc"><img src="20240111_099.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">最後の一枚は、朝のメコン川バックにハイポーズ</span></h2>
 <a href="20240111_100.JPG" data-lightbox="abc"><img src="20240111_100.JPG" alt="サンプル画像" width="900" /></a>
 
 
