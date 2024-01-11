@@ -187,8 +187,10 @@ p.note { display: none; }
 <a href="20240111_041.JPG" data-lightbox="abc"><img src="20240111_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_042.JPG" data-lightbox="abc"><img src="20240111_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_043.JPG" data-lightbox="abc"><img src="20240111_043.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">巨大仏像さん、なんとも言えない表情です</span></h2>
 <a href="20240111_044.JPG" data-lightbox="abc"><img src="20240111_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_045.JPG" data-lightbox="abc"><img src="20240111_045.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">街道沿いのみかん直営店でみかん購入、畑にもお邪魔しました</span></h2>
 <a href="20240111_046.JPG" data-lightbox="abc"><img src="20240111_046.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_047.JPG" data-lightbox="abc"><img src="20240111_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240111_048.JPG" data-lightbox="abc"><img src="20240111_048.JPG" alt="サンプル画像" width="900" /></a>
